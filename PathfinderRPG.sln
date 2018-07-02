@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathfinderRPG", "PathfinderRPG\PathfinderRPG.csproj", "{EFF57995-3B2B-4090-8490-5F38576ED732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFF57995-3B2B-4090-8490-5F38576ED732}.Debug|x86.ActiveCfg = Debug|x86
+		{EFF57995-3B2B-4090-8490-5F38576ED732}.Debug|x86.Build.0 = Debug|x86
+		{EFF57995-3B2B-4090-8490-5F38576ED732}.Release|x86.ActiveCfg = Release|x86
+		{EFF57995-3B2B-4090-8490-5F38576ED732}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B65353C8-D636-41D5-8FD7-EE830B02DD99}
+	EndGlobalSection
+EndGlobal
