@@ -332,9 +332,13 @@ namespace PathfinderRPG
             elf.AddUsableEquipment("shortbow");
             elf.AddUsableEquipment("compshortbow");
 
+            PlayerRace gnome = new PlayerRace("coregnome", "Gnome");
+
+            
             // Add Races
             Races.Add(dwarf);
             Races.Add(elf);
+            Races.Add(gnome);
         }
 
         public static void PopulateItems()
